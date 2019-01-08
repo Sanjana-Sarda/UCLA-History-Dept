@@ -7,7 +7,7 @@ import requests, sys, webbrowser, bs4
 
 # If modifying these scopes, delete the file token.json.
 SCOPES = 'https://www.googleapis.com/auth/calendar'
-CAL_ID = '0ga50j3iq7figikner05h9ubg8@group.calendar.google.com'
+CAL_ID = <HEH_HIDE>
 
 def main():
     """Shows basic usage of the Google Calendar API.
