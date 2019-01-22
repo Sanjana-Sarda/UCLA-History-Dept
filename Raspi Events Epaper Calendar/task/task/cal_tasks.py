@@ -189,7 +189,7 @@ def displayTasks():
     draw.text((250,10),"Events ",font=font_tasks_list_title,fill=white)
     
     for task in data:
-        if (LINEHEIGHT>200):
+        if (LINEHEIGHT>187):
             break
         item=str(task['content'])
         priority=str(task['priority'])
